@@ -21,7 +21,7 @@ function Home() {
             </div>
 
             <div className={`${jump ? "-translate-y-3" : "translate-y-3"} duration-1000 transition-all mt-8 sm:mt-0`}>
-                <img src={require("../assets/ben.png")} className="rounded-full w-[100%]" alt="lan" />
+                <img src={require("../assets/ben.jpeg")} className="rounded-full w-[100%]" alt="lan" />
             </div>
         </div>
     )
